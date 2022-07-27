@@ -1,0 +1,15 @@
+E:\c#\HelloWorld\PowerOfTwo\bin\Debug\net6.0\PowerOfTwo.exe
+E:\c#\HelloWorld\PowerOfTwo\bin\Debug\net6.0\PowerOfTwo.deps.json
+E:\c#\HelloWorld\PowerOfTwo\bin\Debug\net6.0\PowerOfTwo.runtimeconfig.json
+E:\c#\HelloWorld\PowerOfTwo\bin\Debug\net6.0\PowerOfTwo.dll
+E:\c#\HelloWorld\PowerOfTwo\bin\Debug\net6.0\ref\PowerOfTwo.dll
+E:\c#\HelloWorld\PowerOfTwo\bin\Debug\net6.0\PowerOfTwo.pdb
+E:\c#\HelloWorld\PowerOfTwo\obj\Debug\net6.0\PowerOfTwo.csproj.AssemblyReference.cache
+E:\c#\HelloWorld\PowerOfTwo\obj\Debug\net6.0\PowerOfTwo.GeneratedMSBuildEditorConfig.editorconfig
+E:\c#\HelloWorld\PowerOfTwo\obj\Debug\net6.0\PowerOfTwo.AssemblyInfoInputs.cache
+E:\c#\HelloWorld\PowerOfTwo\obj\Debug\net6.0\PowerOfTwo.AssemblyInfo.cs
+E:\c#\HelloWorld\PowerOfTwo\obj\Debug\net6.0\PowerOfTwo.csproj.CoreCompileInputs.cache
+E:\c#\HelloWorld\PowerOfTwo\obj\Debug\net6.0\PowerOfTwo.dll
+E:\c#\HelloWorld\PowerOfTwo\obj\Debug\net6.0\ref\PowerOfTwo.dll
+E:\c#\HelloWorld\PowerOfTwo\obj\Debug\net6.0\PowerOfTwo.pdb
+E:\c#\HelloWorld\PowerOfTwo\obj\Debug\net6.0\PowerOfTwo.genruntimeconfig.cache
