@@ -1,0 +1,15 @@
+E:\c#\HelloWorld\LeapYear\bin\Debug\net6.0\LeapYear.exe
+E:\c#\HelloWorld\LeapYear\bin\Debug\net6.0\LeapYear.deps.json
+E:\c#\HelloWorld\LeapYear\bin\Debug\net6.0\LeapYear.runtimeconfig.json
+E:\c#\HelloWorld\LeapYear\bin\Debug\net6.0\LeapYear.dll
+E:\c#\HelloWorld\LeapYear\bin\Debug\net6.0\ref\LeapYear.dll
+E:\c#\HelloWorld\LeapYear\bin\Debug\net6.0\LeapYear.pdb
+E:\c#\HelloWorld\LeapYear\obj\Debug\net6.0\LeapYear.csproj.AssemblyReference.cache
+E:\c#\HelloWorld\LeapYear\obj\Debug\net6.0\LeapYear.GeneratedMSBuildEditorConfig.editorconfig
+E:\c#\HelloWorld\LeapYear\obj\Debug\net6.0\LeapYear.AssemblyInfoInputs.cache
+E:\c#\HelloWorld\LeapYear\obj\Debug\net6.0\LeapYear.AssemblyInfo.cs
+E:\c#\HelloWorld\LeapYear\obj\Debug\net6.0\LeapYear.csproj.CoreCompileInputs.cache
+E:\c#\HelloWorld\LeapYear\obj\Debug\net6.0\LeapYear.dll
+E:\c#\HelloWorld\LeapYear\obj\Debug\net6.0\ref\LeapYear.dll
+E:\c#\HelloWorld\LeapYear\obj\Debug\net6.0\LeapYear.pdb
+E:\c#\HelloWorld\LeapYear\obj\Debug\net6.0\LeapYear.genruntimeconfig.cache
